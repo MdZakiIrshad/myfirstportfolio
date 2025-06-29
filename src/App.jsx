@@ -122,10 +122,12 @@ const Portfolio = () => {
               >
                 Get In Touch
               </button>
+             <a href='https://drive.google.com/file/d/1PXX78sPNnz-BQISKqa1a99_Li3cytBvp/view?usp=sharing'>
               <button className="border border-white/30 hover:border-white/60 px-8 py-3 rounded-lg font-medium transition-all duration-300 flex items-center justify-center gap-2">
                 <Download size={20} />
                 Download CV
               </button>
+              </a>
             </div>
           </div>
           
